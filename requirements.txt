@@ -1,0 +1,7 @@
+customtkinter==5.2.2
+darkdetect==0.8.0
+numpy==2.2.3
+packaging==24.1
+pillow==11.0.0
+python-dotenv==1.0.1
+tqdm==4.66.5
